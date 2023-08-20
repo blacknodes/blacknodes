@@ -2,12 +2,7 @@
 
 ![blacnodes banner](https://github.com/blacknodes/blacknodes/assets/85839823/35416213-6d37-4f8c-a36f-81fda42bdf92)
 
-![logo-black](https://github.com/blacknodes/blacknodes/assets/85839823/994927fd-657c-4410-a64d-0d6bd5b377e3)
-
-
 <h3 align="center">BlackNodes, an Enterprise-Level Validator and staking platform hailing from INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network.</h3>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacknodes&label=Profile%20views&color=0e75b6&style=flat" alt="blacknodes" /> </p>
 
@@ -30,6 +25,8 @@
 - 📫 How to reach us **contact@blacknodes.net**
 
 - ⚡ Fun fact **Did you know? In some blockchain networks, validators are incentivized with rewards for their diligent work in validating transactions. It's like a digital treasure hunt, where validators compete to solve complex puzzles and secure the network. These rewards can come in the form of newly minted tokens or transaction fees, making validator participation both intellectually stimulating and potentially rewarding!**
+
+- ![logo-black](https://github.com/blacknodes/blacknodes/assets/85839823/994927fd-657c-4410-a64d-0d6bd5b377e3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
