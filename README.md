@@ -3,7 +3,7 @@
 
 
 <h3 align="center">BlackNodes, an Enterprise-Level Validator and staking platform hailing from INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network.</h3>
-![blacnodes banner](https://github.com/blacknodes/blacknodes/assets/85839823/ebb9eb09-a07c-43d2-9be0-32975b566605)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blacknodes&label=Profile%20views&color=0e75b6&style=flat" alt="blacknodes" /> </p>
