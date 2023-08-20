@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to 👋, Blacknodes</h1>
 
 
-<img src=""C:\Users\sahil\Downloads\Telegram Desktop\black-nodes-logo-zip-file\blacnodes banner.jpg""/>
+<img src="C:\Users\sahil\Downloads\Telegram Desktop\black-nodes-logo-zip-file\blacnodes banner.jpg"/>
 
 <h3 align="center">BlackNodes, an Enterprise-Level Validator and staking platform hailing from INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network.</h3>
 
