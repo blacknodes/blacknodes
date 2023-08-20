@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to 👋, Blacknodes</h1>
+![blacnodes banner](https://github.com/blacknodes/blacknodes/assets/85839823/1e343bd0-54c3-4583-9744-d375c59bf8fd)
+
 <img width="209" alt="logowhite-1@2x" src="https://github.com/blacknodes/blacknodes/assets/85839823/3c7e2265-3971-4379-8dda-4d57557cf76c">
 <h3 align="center">BlackNodes, an Enterprise-Level Validator and staking platform hailing from INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network.</h3>
 
