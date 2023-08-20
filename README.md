@@ -28,9 +28,9 @@
 
 - ![logo-black](https://github.com/blacknodes/blacknodes/assets/85839823/994927fd-657c-4410-a64d-0d6bd5b377e3)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://twitter.com/blacknodeshq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blacknodeshq" height="30" width="40" /></a>
+<a href="https://twitter.com/blacknodeshq" target="blank"><img align="center" src="https://www.flaticon.com/free-icons/twitter-social-badge" alt="blacknodeshq" height="30" width="40" /></a>
 <a href="https://medium.com/@blacknodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@blacknodes" height="30" width="40" /></a>
 <a href="https://discord.gg/1037283123366473759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1037283123366473759" height="30" width="40" /></a>
 </p>
